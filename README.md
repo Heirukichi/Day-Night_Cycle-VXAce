@@ -6,7 +6,7 @@ This script adds a day/night cycle. In addition to that it adds a clock sprite s
 
 
 ## INSTALLATION
-To set up this script you can change values inside HCK::CONFIG module. The purpose of each of those values is explained in detail there. If you just want your day/night cycle there are few default values you can use for a fast plug-and-play use of this script.
+To set up this script you can change values inside `HCK::CONFIG` module. The purpose of each of those values is explained in detail there. If you just want your day/night cycle there are few default values you can use for a fast plug-and-play use of this script.
 
 This script is meant to work with two clock images. One is fixed (it is called clock support or just support in the script) while one can move (that is called just clock). The default path for those images is inside Graphics/Clock/ but feel free to change that when configuring the script.
 
