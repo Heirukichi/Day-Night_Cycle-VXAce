@@ -33,7 +33,7 @@ Once your clock has been set up you can access many different methods using scri
 - `$game_clock.show` forces your clock to be visible. It has no effect when already visible.
 - `$game_clock.hide` forces your clock to disappear. If already invisible it has no effect.
 - `$game_clock.stop` stops your in-game time.
--` $game_clock.resume` resumes your in-game time.
+- `$game_clock.resume` resumes your in-game time.
 - `$game_clock.toggle_timeflow` can either stop your clock or resume it depending on its status.
 - `$game_clock.to_s` returns a string containing your in-game time in the format hh:mm AM/PM.
 - `$game_clock.visible?` tells you if your clock is visible.
