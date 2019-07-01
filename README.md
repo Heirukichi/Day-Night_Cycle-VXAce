@@ -4,6 +4,13 @@ _Author: Heirukichi_
 ## DESCRIPTION
 This script adds a day/night cycle. In addition to that it adds a clock sprite so players can get a grasp on game time.
 
+## TABLE OF CONTENTS
+* [Installation](#installation)
+* [Usage](#usage)
+  * [Interpreter Changes](#game-interpreter-changes)
+  * [Compatibility](#compatibility)
+* [License](#license)
+  * [Important Notice](#important-notice)
 
 ## INSTALLATION
 To set up this script you can change values inside `HCK::CONFIG` module. The purpose of each of those values is explained in detail there. If you just want your day/night cycle there are few default values you can use for a fast plug-and-play use of this script.
@@ -182,3 +189,6 @@ The sole purpose of the link is to help me keeping track of where my work is bei
 
 More information can be found in the script itself.
 At the same time, the script contains detailed instructions on how to use it. Read them carefully.
+
+#### *IMPORTANT NOTICE*
+If you want to distribute this code, feel free to do it, but provide a link to my website instead of pasting my script somewhere else.
